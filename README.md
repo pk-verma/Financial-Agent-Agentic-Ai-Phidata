@@ -2,6 +2,12 @@
 Agentic AI - Financial Agent with Phidata
 
 
+![image](https://github.com/user-attachments/assets/3294ad25-a7b4-478e-b3ab-784a80f0d282)
+![image](https://github.com/user-attachments/assets/60ade67d-bab4-469d-b30a-1bdc1baea798)
+![image](https://github.com/user-attachments/assets/b55edd1e-db02-45fb-bc76-f77d57e3af79)
+
+
+
 ┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                                                                                                                                                            ┃
 ┃ Summarize analyst recommendations and share the latest news for NVIDIA Corporation (NVDA).                                                                 ┃
