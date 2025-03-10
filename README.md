@@ -28,8 +28,8 @@ This project implements a multi-agent system for financial analysis, leveraging 
 1.  **Clone the repository:**
 
     ```bash
-    git clone [repository URL]
-    cd [repository directory]
+    git clone https://github.com/pk-verma/Financial-Agent-Agentic-Ai-Phidata.git
+    cd Financial-Agent-Agentic-Ai-Phidata
     ```
 
 2.  **Create a virtual environment (recommended):**
